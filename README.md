@@ -17,18 +17,6 @@ See `clang-format` in action, automatically transforming messy code:
 ### Automatic include sorting
 ![Demo: include sorting](assets/clang_format_a3.gif)
 
-## What's inside
-
-```
-dotfiles/
-├── assets/
-│   ├── clang_format_a1.gif
-│   ├── clang_format_a2.gif
-│   └── clang_format_a3.gif
-└── clang-format/
-    └── cpp.clang-format    # Formatting style for C/C++ projects
-```
-
 ## clang-format
 
 C++ style configuration based on LLVM, with adjustments for professional projects:
