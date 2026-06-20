@@ -40,9 +40,7 @@ C++ style configuration based on LLVM, with adjustments for professional project
    ```
    > Important: the name must start with a dot and have nothing before it (`.clang-format`, not `cpp.clang-format`).
 
-3. In CLion: **Settings → Editor → Code Style → C/C++** → select **Clang-Format** as the engine.
-
-4. Use `Ctrl+Alt+L` to format any file in the project.
+3. Use `Ctrl+Alt+L` to format any file in the project.
 ---
 
 Maintained by [Kotz-dev](https://github.com/Kotz-dev)
