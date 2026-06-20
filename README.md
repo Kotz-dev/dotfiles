@@ -1,6 +1,6 @@
 # Dotfiles
 
-> > Currently includes configurations for **C++**.
+> Currently includes configurations for **C++**.
 
 Personal repository of development configurations and templates, reused across different projects.
 
